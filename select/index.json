@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "ハートブレイカー (Instrumental ver.)",
+  "base_artist": "NEE",
+  "createdAt": "2026-02-17T15:07:19.606173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "supercell feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_ハートブレイカー_supercell_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "ryo feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/02_ハートブレイカー_ryo_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "ryo",
+      "has_synced": true,
+      "path": "select/03_ハートブレイカー_ryo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/04_ハートブレイカー_supercell.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "小泉今日子",
+      "has_synced": false,
+      "path": "select/05_ハートブレイカー_小泉今日子.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "+α Alfakyun.",
+      "has_synced": false,
+      "path": "select/06_ハートブレイカー_+α_Alfakyun..txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハートブレイカー",
+      "artist": "+α/あるふぁきゅん。",
+      "has_synced": false,
+      "path": "select/07_ハートブレイカー_+α_あるふぁきゅん。.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハートブレイカー(Bonus Track)",
+      "artist": "小泉今日子",
+      "has_synced": false,
+      "path": "select/08_ハートブレイカー(Bonus_Track)_小泉今日子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heart breaker [ハートブレイカー]",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/09_Heart_breaker_[ハートブレイカー]_supercell.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートブレイカー",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ハートブレイカー_NEE.txt"
+    }
+  ]
+}
